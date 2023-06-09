@@ -11,7 +11,7 @@ import (
 
 func TestNumbers(t *testing.T) {
 	// Read the file
-	content, err := os.ReadFile("../data/numbers/numbers.json")
+	content, err := os.ReadFile("../data/numbers/v1.json")
 	require.NotEmpty(t, content)
 	require.NoError(t, err)
 
