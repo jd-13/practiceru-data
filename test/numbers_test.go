@@ -23,14 +23,13 @@ func TestNumbers(t *testing.T) {
 	// Validate cardinal
 	assert.Contains(t, numbers, "cardinal")
 	for k, v := range numbers["cardinal"].(map[string]interface{}) {
-		assert.IsType(t, "string", k)
-
-		if value, ok := v.(string); ok {
-			assert.IsType(t, "string", value)
+		if _, ok := v.(string); ok {
+			// Do nothing
 		} else if values, ok := v.([]interface{}); ok {
 			assert.Len(t, values, 3)
 			for _, value := range values {
-				assert.IsType(t, "string", value)
+				_, ok = value.(string)
+				assert.True(t, ok)
 			}
 		} else {
 			t.Errorf("Invalid type for key %s", k)
@@ -40,12 +39,11 @@ func TestNumbers(t *testing.T) {
 	// Validate ordinal
 	assert.Contains(t, numbers, "ordinal")
 	for k, v := range numbers["ordinal"].(map[string]interface{}) {
-		assert.IsType(t, "string", k)
-
 		if values, ok := v.([]interface{}); ok {
 			assert.Len(t, values, 4)
 			for _, value := range values {
-				assert.IsType(t, "string", value)
+				_, ok = value.(string)
+				assert.True(t, ok)
 			}
 		} else {
 			t.Errorf("Invalid type for key %s", k)
