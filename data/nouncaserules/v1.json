@@ -1,0 +1,100 @@
+{
+    "singular rules": {
+        "genitive": [
+            "For nouns ending in a consonant, add а",
+            "For nouns ending in й or ь (masculine), replace with я",
+            "For nouns ending in а, replace with ы",
+            "For nouns ending in я or ь (feminine), replace with и",
+            "For nouns ending in о, replace with а",
+            "For nouns ending in е, replace with я"
+        ],
+        "accusative": [
+            "For inanimate masculine nouns there is no change",
+            "For animate nouns ending in a consonant, add а",
+            "For animate nouns ending in й, replace with я",
+            "For animate nouns ending in ь (masculine), replace with я",
+            "For nouns ending in а, replace with у",
+            "For nouns ending in я, replace with ю",
+            "For nouns ending in ь (feminine), there is no change",
+            "For inanimate neuter nouns there is no change"
+        ],
+        "dative": [
+            "For nouns ending in a consonant, add у",
+            "For nouns ending in й or ь (masculine), replace with ю",
+            "For nouns ending in а or я, replace with е",
+            "For nouns ending in ь (feminine), replace with и",
+            "For nouns ending in о, replace with у",
+            "For nouns ending in е, replace with ю"
+        ],
+        "instrumental": [
+            "For nouns ending in a consonant (except й), add ом",
+            "For nouns ending in й, replace with eм (ём if stressed)",
+            "For nouns ending in ь (masculine), replace with ем (ём if stressed)",
+            "For nouns ending in а, replace with ой (or rarely ою)",
+            "For nouns ending in я, replace with ей (ёй if stressed)",
+            "For nouns ending in ь (feminine), add ю",
+            "For neuter nouns add м"
+        ],
+        "prepositional": [
+            "For nouns ending in a consonant, add е",
+            "For nouns ending in ь (masculine), replace with е",
+            "For nouns ending in а, я or й, replace with е",
+            "For nouns ending in ь (feminine), replace with и",
+            "For nouns ending in о, replace with е",
+            "For nouns ending in ия, ий, or ие, replace with ии"
+        ]
+    },
+
+    "plural rules": {
+        "nominative": [
+            "For nouns ending in a consonant, add ы",
+            "For nouns ending in й, я, or ь, replace with и",
+            "For nouns ending in а, replace with ы",
+            "For nouns ending in о, replace with а",
+            "For nouns ending in е, replace with я"
+        ],
+        "genitive": [
+            "For nouns ending in a consonant (except ж, ч, ш, щ), add ов",
+            "For nouns ending in й or ц, add ев",
+            "For nouns ending in ж, ч, ш, or щ, add ей",
+            "For nouns ending in а, remove а",
+            "For nouns ending in a consonant followed by я, replace я with ь",
+            "For nouns ending in a vowel followed by я, replace я with й",
+            "For nouns ending in о, remove о",
+            "For nouns ending in е, add й",
+            "For nouns ending in ие, replace е with й",
+            "For nouns ending ь, replace with ей"
+        ],
+        "accusative": [
+            "For inanimate nouns, the accusative plural is the same as the nominative plural",
+            "For animate nouns, the accusative plural is the same as the genitive plural"
+        ],
+        "dative": [
+            "For nouns ending in a consonant, add ам",
+            "For nouns ending in й, ь, е, or я, replace with ям",
+            "For nouns ending in а or о, replace with ам"
+        ],
+        "instrumental": [
+            "For nouns ending in a consonant, add ами",
+            "For nouns ending in а or о, replace with ами",
+            "For nouns ending in й, ь, е, or я, replace with ями"
+        ],
+        "prepositional": [
+            "For nouns ending in a consonant, add ах",
+            "For nouns ending in а or о, replace with ах",
+            "For nouns ending in й, ь, е, or я, replace with ях"
+        ]
+    },
+
+    "spelling rules": [
+        "Except here this would put ы after one of 'г, к, х, ж, ч, ш, щ', so instead use и",
+        "Except here this would put an unstressed о after one of 'ж, ч, ш, щ, ц', so instead use е",
+        "Except here this would put я after one of 'г, к, х, ж, ч, ш, щ, ц', so instead use а",
+        "Except here this would put ю after one of 'г, к, х, ж, ч, ш, щ, ц', so instead use у",
+
+        "Except here this would put ом after one of 'ж, ч, ш, щ, ц', so instead use ем",
+        "Except here this would put ой after one of 'ж, ч, ш, щ, ц', so instead use ей",
+
+        "Except here an о or е is added before the last letter to aid pronunciation"
+    ]
+}

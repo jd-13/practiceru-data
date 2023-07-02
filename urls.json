@@ -1,4 +1,7 @@
 {
     "numbers": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/numbers",
-    "countries": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/countries"
+    "countries": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/countries",
+    "nouncaserules": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/nouncaserules",
+    "nouncases": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/nouncases",
+    "pronouncases": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/pronouncases"
 }
