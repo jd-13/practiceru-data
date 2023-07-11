@@ -1,17 +1,6 @@
 [
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
-        "country": "Австралия",
-        "genitive": "Австралии",
-        "languages": ["английски"],
-        "nationality": {
-            "masculine": "австралиец",
-            "feminine": "австралийка",
-            "plural": "австралийцы"
-        }
-    },
-    {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_the_United_States.jpg",
         "country": "Америка",
         "genitive": "Америки",
         "languages": ["английски"],
@@ -22,7 +11,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_England.jpg",
         "country": "Англия",
         "genitive": "Англии",
         "languages": ["английски"],
@@ -33,7 +22,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Argentina.jpg",
         "country": "Аргентина",
         "genitive": "Аргентины",
         "languages": ["испански"],
@@ -44,7 +33,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Belgium.jpg",
         "country": "Бельгия",
         "genitive": "Бельгии",
         "languages": ["нидерландски", "французски"],
@@ -55,7 +44,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Denmark.jpg",
         "country": "Дания",
         "genitive": "Дании",
         "languages": ["датски"],
@@ -66,7 +55,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Germany.jpg",
         "country": "Германия",
         "genitive": "Германии",
         "languages": ["немецки"],
@@ -77,7 +66,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Greece.jpg",
         "country": "Греция",
         "genitive": "Греции",
         "languages": ["гречески"],
@@ -88,7 +77,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Spain.jpg",
         "country": "Испания",
         "genitive": "Испании",
         "languages": ["испански"],
@@ -99,7 +88,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Italy.jpg",
         "country": "Италия",
         "genitive": "Италии",
         "languages": ["итальянски"],
@@ -110,7 +99,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Canada_%28Pantone%29.jpg",
         "country": "Канада",
         "genitive": "Канады",
         "languages": ["английски", "французски"],
@@ -121,7 +110,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_the_People%27s_Republic_of_China.jpg",
         "country": "Китай",
         "genitive": "Китая",
         "languages": ["китайски"],
@@ -132,7 +121,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Mexico.jpg",
         "country": "Мексика",
         "genitive": "Мексики",
         "languages": ["испански"],
@@ -143,7 +132,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Norway.jpg",
         "country": "Норвегия",
         "genitive": "Норвегии",
         "languages": ["норвежски"],
@@ -154,7 +143,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Portugal.jpg",
         "country": "Португалия",
         "genitive": "Португалии",
         "languages": ["португальски"],
@@ -165,7 +154,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Russia.jpg",
         "country": "Россия",
         "genitive": "России",
         "languages": ["русски"],
@@ -176,7 +165,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Ukraine.jpg",
         "country": "Украина",
         "genitive": "Украины",
         "languages": ["украински"],
@@ -187,7 +176,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_France.jpg",
         "country": "Франция",
         "genitive": "Франции",
         "languages": ["французски"],
@@ -198,7 +187,7 @@
         }
     },
     {
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+        "flag": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/assets/flags/Flag_of_Switzerland_%28Pantone%29.jpg",
         "country": "Швейцария",
         "genitive": "Швейцарии",
         "languages": ["немецки"],
