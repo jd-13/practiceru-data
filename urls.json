@@ -4,5 +4,6 @@
     "nouncaserules": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/nouncaserules",
     "nouncases": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/nouncases",
     "pronouncases": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/pronouncases",
-    "imperative": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperative"
+    "imperative": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperative",
+    "imperativerules": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperativerules"
 }
