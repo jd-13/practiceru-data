@@ -38,8 +38,7 @@
     {
         "infinitive": "писать",
         "singular": "пиши",
-        "plural": "пишите",
-        "rule": -1
+        "plural": "пишите"
     },
     {
         "infinitive": "быть",
@@ -50,8 +49,7 @@
     {
         "infinitive": "есть",
         "singular": "ешь",
-        "plural": "ешьте",
-        "rule": -1
+        "plural": "ешьте"
     },
     {
         "infinitive": "готовить",
@@ -62,38 +60,32 @@
     {
         "infinitive": "пить",
         "singular": "пей",
-        "plural": "пейте",
-        "rule": -1
+        "plural": "пейте"
     },
     {
         "infinitive": "ехать",
         "singular": "поезжай",
-        "plural": "поезжайте",
-        "rule": -1
+        "plural": "поезжайте"
     },
     {
         "infinitive": "спать",
         "singular": "спи",
-        "plural": "спите",
-        "rule": -1
+        "plural": "спите"
     },
     {
         "infinitive": "давать",
         "singular": "давай",
-        "plural": "давайте",
-        "rule": -1
+        "plural": "давайте"
     },
     {
         "infinitive": "петь",
         "singular": "пой",
-        "plural": "пойте",
-        "rule": -1
+        "plural": "пойте"
     },
     {
         "infinitive": "мыть",
         "singular": "мой",
-        "plural": "мойте",
-        "rule": -1
+        "plural": "мойте"
     },
     {
         "infinitive": "жить",
