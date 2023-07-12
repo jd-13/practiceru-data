@@ -1,6 +1,14 @@
-[
-    "For verbs roots ending in vowel or ь, add й (singular) or йте (plural) to the end of the root",
-    "For verbs roots ending in consonant, if the first person form would have stress on the suffix, add и (singular) or ите (plural) to the end of the root",
-    "For verbs roots ending in consonant, if the first person form would have stress in the root, add ь (singular) or ьте (plural) to the end of the root",
-    "For verbs roots ending in consonant followed by н, add и (singular) or ите (plural) to the end of the root"
-]
+{
+    "singular": [
+        "For verbs roots ending in vowel or ь, add й to the end of the root",
+        "For verbs roots ending in consonant, if the first person form would have stress on the suffix, add и to the end of the root",
+        "For verbs roots ending in consonant, if the first person form would have stress in the root, add ь to the end of the root",
+        "For verbs roots ending in consonant followed by н, add и to the end of the root"
+    ],
+    "plural": [
+        "For verbs roots ending in vowel or ь, add йте to the end of the root",
+        "For verbs roots ending in consonant, if the first person form would have stress on the suffix, add ите to the end of the root",
+        "For verbs roots ending in consonant, if the first person form would have stress in the root, add ьте to the end of the root",
+        "For verbs roots ending in consonant followed by н, add ите to the end of the root"
+    ]
+}
