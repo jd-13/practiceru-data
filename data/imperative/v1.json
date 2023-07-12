@@ -1,107 +1,128 @@
-{
-    "делать": {
+[
+    {
+        "infinitive": "делать",
         "singular": "делай",
         "plural": "делайте",
         "rule": 1
     },
-    "гулять": {
+    {
+        "infinitive": "гулять",
         "singular": "гуляй",
         "plural": "гуляйте",
         "rule": 1
     },
-    "говорить": {
+    {
+        "infinitive": "говорить",
         "singular": "говори",
         "plural": "говорите",
         "rule": 2
     },
-    "идти": {
+    {
+        "infinitive": "идти",
         "singular": "иди",
         "plural": "идите",
         "rule": 2
     },
-    "смеяться": {
+    {
+        "infinitive": "смеяться",
         "singular": "смейся",
         "plural": "смейтесь",
         "rule": 1
     },
-    "читать": {
+    {
+        "infinitive": "читать",
         "singular": "читай",
         "plural": "читайте",
         "rule": 1
     },
-    "писать": {
+    {
+        "infinitive": "писать",
         "singular": "пиши",
         "plural": "пишите",
         "rule": -1
     },
-    "быть": {
+    {
+        "infinitive": "быть",
         "singular": "будь",
         "plural": "будьте",
         "rule": 3
     },
-    "есть": {
+    {
+        "infinitive": "есть",
         "singular": "ешь",
         "plural": "ешьте",
         "rule": -1
     },
-    "готовить": {
+    {
+        "infinitive": "готовить",
         "singular": "готовь",
         "plural": "готовьте",
         "rule": 3
     },
-    "пить": {
+    {
+        "infinitive": "пить",
         "singular": "пей",
         "plural": "пейте",
         "rule": -1
     },
-    "ехать": {
+    {
+        "infinitive": "ехать",
         "singular": "поезжай",
         "plural": "поезжайте",
         "rule": -1
     },
-    "спать": {
+    {
+        "infinitive": "спать",
         "singular": "спи",
         "plural": "спите",
         "rule": -1
     },
-    "давать": {
+    {
+        "infinitive": "давать",
         "singular": "давай",
         "plural": "давайте",
         "rule": -1
     },
-    "петь": {
+    {
+        "infinitive": "петь",
         "singular": "пой",
         "plural": "пойте",
         "rule": -1
     },
-    "мыть": {
+    {
+        "infinitive": "мыть",
         "singular": "мой",
         "plural": "мойте",
         "rule": -1
     },
-    "жить": {
+    {
+        "infinitive": "жить",
         "singular": "живи",
         "plural": "живите",
         "rule": 2
     },
-    "кричать": {
+    {
+        "infinitive": "кричать",
         "singular": "кричи",
         "plural": "кричите",
         "rule": 2
     },
-    "молчать": {
+    {
+        "infinitive": "молчать",
         "singular": "молчи",
         "plural": "молчите",
         "rule": 2
     },
-    "помнить": {
+    {
+        "infinitive": "помнить",
         "singular": "помни",
         "plural": "помните",
         "rule": 2
     },
-    "встать": {
+    {
+        "infinitive": "встать",
         "singular": "встань",
         "plural": "встаньте",
         "rule": 3
     }
-}
+]
