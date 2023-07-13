@@ -26,16 +26,19 @@ func TestCountries(t *testing.T) {
 		require.True(t, ok)
 
 		assert.Contains(t, country, "flag")
-		_, ok = country["flag"].(string)
+		flag, ok := country["flag"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, flag)
 
 		assert.Contains(t, country, "country")
-		_, ok = country["country"].(string)
+		name, ok := country["country"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, name)
 
 		assert.Contains(t, country, "genitive")
-		_, ok = country["genitive"].(string)
+		genitive, ok := country["genitive"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, genitive)
 
 		assert.Contains(t, country, "languages")
 		languages, ok := country["languages"].([]interface{})
@@ -51,15 +54,18 @@ func TestCountries(t *testing.T) {
 		require.True(t, ok)
 
 		assert.Contains(t, nationality, "masculine")
-		_, ok = nationality["masculine"].(string)
+		masculine, ok := nationality["masculine"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, masculine)
 
 		assert.Contains(t, nationality, "feminine")
-		_, ok = nationality["feminine"].(string)
+		feminine, ok := nationality["feminine"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, feminine)
 
 		assert.Contains(t, nationality, "plural")
-		_, ok = nationality["plural"].(string)
+		plural, ok := nationality["plural"].(string)
 		assert.True(t, ok)
+		assert.NotEmpty(t, plural)
 	}
 }
