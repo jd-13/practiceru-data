@@ -3,37 +3,37 @@
         "infinitive": "делать",
         "singular": "делай",
         "plural": "делайте",
-        "rule": 1
+        "rule": 0
     },
     {
         "infinitive": "гулять",
         "singular": "гуляй",
         "plural": "гуляйте",
-        "rule": 1
+        "rule": 0
     },
     {
         "infinitive": "говорить",
         "singular": "говори",
         "plural": "говорите",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "идти",
         "singular": "иди",
         "plural": "идите",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "смеяться",
         "singular": "смейся",
         "plural": "смейтесь",
-        "rule": 1
+        "rule": 0
     },
     {
         "infinitive": "читать",
         "singular": "читай",
         "plural": "читайте",
-        "rule": 1
+        "rule": 0
     },
     {
         "infinitive": "писать",
@@ -44,7 +44,7 @@
         "infinitive": "быть",
         "singular": "будь",
         "plural": "будьте",
-        "rule": 3
+        "rule": 2
     },
     {
         "infinitive": "есть",
@@ -55,7 +55,7 @@
         "infinitive": "готовить",
         "singular": "готовь",
         "plural": "готовьте",
-        "rule": 3
+        "rule": 2
     },
     {
         "infinitive": "пить",
@@ -91,30 +91,30 @@
         "infinitive": "жить",
         "singular": "живи",
         "plural": "живите",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "кричать",
         "singular": "кричи",
         "plural": "кричите",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "молчать",
         "singular": "молчи",
         "plural": "молчите",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "помнить",
         "singular": "помни",
         "plural": "помните",
-        "rule": 2
+        "rule": 1
     },
     {
         "infinitive": "встать",
         "singular": "встань",
         "plural": "встаньте",
-        "rule": 3
+        "rule": 2
     }
 ]
