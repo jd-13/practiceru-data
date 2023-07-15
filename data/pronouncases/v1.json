@@ -6,14 +6,16 @@
                 "genitive": "меня",
                 "accusative": "меня",
                 "dative": "мне",
-                "instrumental": "мной"
+                "instrumental": "мной",
+                "prepositional": "мне"
             },
             {
                 "nominative": "ты",
                 "genitive": "тебя",
                 "accusative": "тебя",
                 "dative": "тебе",
-                "instrumental": "тобой"
+                "instrumental": "тобой",
+                "prepositional": "тебе"
             }
         ],
         "masculine": [
@@ -22,7 +24,8 @@
                 "genitive": "его",
                 "accusative": "его",
                 "dative": "ему",
-                "instrumental": "им"
+                "instrumental": "им",
+                "prepositional": "нём"
             }
         ],
         "feminine": [
@@ -31,7 +34,8 @@
                 "genitive": "её",
                 "accusative": "её",
                 "dative": "ей",
-                "instrumental": "ей"
+                "instrumental": "ей",
+                "prepositional": "ней"
             }
         ],
         "neuter": [
@@ -40,7 +44,8 @@
                 "genitive": "его",
                 "accusative": "его",
                 "dative": "ему",
-                "instrumental": "им"
+                "instrumental": "им",
+                "prepositional": "нём"
             }
         ],
         "plural": [
@@ -49,21 +54,24 @@
                 "genitive": "вас",
                 "accusative": "вас",
                 "dative": "вам",
-                "instrumental": "вами"
+                "instrumental": "вами",
+                "prepositional": "вас"
             },
             {
                 "nominative": "мы",
                 "genitive": "нас",
                 "accusative": "нас",
                 "dative": "нам",
-                "instrumental": "нами"
+                "instrumental": "нами",
+                "prepositional": "нас"
             },
             {
                 "nominative": "они",
                 "genitive": "их",
                 "accusative": "их",
                 "dative": "им",
-                "instrumental": "ими"
+                "instrumental": "ими",
+                "prepositional": "них"
             }
         ]
     },
@@ -76,28 +84,32 @@
                 "genitive": "моего",
                 "accusative": {"inanimate": "мой", "animate": "моего"},
                 "dative": "моему",
-                "instrumental": "моим"
+                "instrumental": "моим",
+                "prepositional": "моём"
             },
             {
                 "nominative": "твой",
                 "genitive": "твоего",
                 "accusative": {"inanimate": "твой", "animate": "твоего"},
                 "dative": "твоему",
-                "instrumental": "твоим"
+                "instrumental": "твоим",
+                "prepositional": "твоём"
             },
             {
                 "nominative": "наш",
                 "genitive": "нашего",
                 "accusative": {"inanimate": "наш", "animate": "нашего"},
                 "dative": "нашему",
-                "instrumental": "нашим"
+                "instrumental": "нашим",
+                "prepositional": "нашем"
             },
             {
                 "nominative": "ваш",
                 "genitive": "вашего",
                 "accusative": {"inanimate": "ваш", "animate": "вашего"},
                 "dative": "вашему",
-                "instrumental": "вашим"
+                "instrumental": "вашим",
+                "prepositional": "вашем"
             }
         ],
         "feminine": [
@@ -106,28 +118,32 @@
                 "genitive": "моей",
                 "accusative": {"inanimate": "мою", "animate": "мою"},
                 "dative": "моей",
-                "instrumental": "моей"
+                "instrumental": "моей",
+                "prepositional": "моей"
             },
             {
                 "nominative": "твоя",
                 "genitive": "твоей",
                 "accusative": {"inanimate": "твою", "animate": "твою"},
                 "dative": "твоей",
-                "instrumental": "твоей"
+                "instrumental": "твоей",
+                "prepositional": "твоей"
             },
             {
                 "nominative": "наша",
                 "genitive": "нашей",
                 "accusative": {"inanimate": "нашу", "animate": "нашу"},
                 "dative": "нашей",
-                "instrumental": "нашей"
+                "instrumental": "нашей",
+                "prepositional": "нашей"
             },
             {
                 "nominative": "ваша",
                 "genitive": "вашей",
                 "accusative": {"inanimate": "вашу", "animate": "вашу"},
                 "dative": "вашей",
-                "instrumental": "вашей"
+                "instrumental": "вашей",
+                "prepositional": "вашей"
             }
         ],
         "neuter": [
@@ -136,28 +152,32 @@
                 "genitive": "моего",
                 "accusative": {"inanimate": "моё", "animate": "моё"},
                 "dative": "моему",
-                "instrumental": "моим"
+                "instrumental": "моим",
+                "prepositional": "моём"
             },
             {
                 "nominative": "твоё",
                 "genitive": "твоего",
                 "accusative": {"inanimate": "твоё", "animate": "твоё"},
                 "dative": "твоему",
-                "instrumental": "твоим"
+                "instrumental": "твоим",
+                "prepositional": "твоём"
             },
             {
                 "nominative": "наше",
                 "genitive": "нашего",
                 "accusative": {"inanimate": "наше", "animate": "наше"},
                 "dative": "нашему",
-                "instrumental": "нашим"
+                "instrumental": "нашим",
+                "prepositional": "нашем"
             },
             {
                 "nominative": "ваше",
                 "genitive": "вашего",
                 "accusative": {"inanimate": "ваше", "animate": "ваше"},
                 "dative": "вашему",
-                "instrumental": "вашим"
+                "instrumental": "вашим",
+                "prepositional": "вашем"
             }
         ],
         "plural": [
@@ -166,28 +186,32 @@
                 "genitive": "моих",
                 "accusative": {"inanimate": "мои", "animate": "моих"},
                 "dative": "моим",
-                "instrumental": "моими"
+                "instrumental": "моими",
+                "prepositional": "моих"
             },
             {
                 "nominative": "твои",
                 "genitive": "твоих",
                 "accusative": {"inanimate": "твои", "animate": "твоих"},
                 "dative": "твоим",
-                "instrumental": "твоими"
+                "instrumental": "твоими",
+                "prepositional": "твоих"
             },
             {
                 "nominative": "наши",
                 "genitive": "наших",
                 "accusative": {"inanimate": "наши", "animate": "наших"},
                 "dative": "нашим",
-                "instrumental": "нашими"
+                "instrumental": "нашими",
+                "prepositional": "наших"
             },
             {
                 "nominative": "ваши",
                 "genitive": "ваших",
                 "accusative": {"inanimate": "ваши", "animate": "ваших"},
                 "dative": "вашим",
-                "instrumental": "вашими"
+                "instrumental": "вашими",
+                "prepositional": "ваших"
             }
         ]
     }
