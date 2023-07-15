@@ -20,7 +20,7 @@ func TestPronounCases(t *testing.T) {
 	err = json.Unmarshal(content, &pronouns)
 	require.NoError(t, err)
 
-	cases := []string{"nominative", "genitive", "accusative", "dative", "instrumental"}
+	cases := []string{"nominative", "genitive", "accusative", "dative", "instrumental", "prepositional"}
 
 	// Validate personal pronouns
 	personalPronouns, ok := pronouns["personal"].(map[string]interface{})
