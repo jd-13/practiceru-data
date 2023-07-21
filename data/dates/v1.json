@@ -1,0 +1,267 @@
+{
+    "numbers": {
+        "1": {
+            "nominative": "первое",
+            "genitive": "первого",
+            "prepositional": "первом"
+        },
+        "2": {
+            "nominative": "второе",
+            "genitive": "второго",
+            "prepositional": "втором"
+        },
+        "3": {
+            "nominative": "третье",
+            "genitive": "третьего",
+            "prepositional": "третьем"
+        },
+        "4": {
+            "nominative": "четвёртое",
+            "genitive": "четвёртого",
+            "prepositional": "четвёртом"
+        },
+        "5": {
+            "nominative": "пятое",
+            "genitive": "пятого",
+            "prepositional": "пятом"
+        },
+        "6": {
+            "nominative": "шестое",
+            "genitive": "шестого",
+            "prepositional": "шестом"
+        },
+        "7": {
+            "nominative": "седьмое",
+            "genitive": "седьмого",
+            "prepositional": "седьмом"
+        },
+        "8": {
+            "nominative": "восьмое",
+            "genitive": "восьмого",
+            "prepositional": "восьмом"
+        },
+        "9": {
+            "nominative": "девятое",
+            "genitive": "девятого",
+            "prepositional": "девятом"
+        },
+        "10": {
+            "nominative": "десятое",
+            "genitive": "десятого",
+            "prepositional": "десятом"
+        },
+        "11": {
+            "nominative": "одиннадцатое",
+            "genitive": "одиннадцатого",
+            "prepositional": "одиннадцатом"
+        },
+        "12": {
+            "nominative": "двенадцатое",
+            "genitive": "двенадцатого",
+            "prepositional": "двенадцатом"
+        },
+        "13": {
+            "nominative": "тринадцатое",
+            "genitive": "тринадцатого",
+            "prepositional": "тринадцатом"
+        },
+        "14": {
+            "nominative": "четырнадцатое",
+            "genitive": "четырнадцатого",
+            "prepositional": "четырнадцатом"
+        },
+        "15": {
+            "nominative": "пятнадцатое",
+            "genitive": "пятнадцатого",
+            "prepositional": "пятнадцатом"
+        },
+        "16": {
+            "nominative": "шестнадцатое",
+            "genitive": "шестнадцатого",
+            "prepositional": "шестнадцатом"
+        },
+        "17": {
+            "nominative": "семнадцатое",
+            "genitive": "семнадцатого",
+            "prepositional": "семнадцатом"
+        },
+        "18": {
+            "nominative": "восемнадцатое",
+            "genitive": "восемнадцатого",
+            "prepositional": "восемнадцатом"
+        },
+        "19": {
+            "nominative": "девятнадцатое",
+            "genitive": "девятнадцатого",
+            "prepositional": "девятнадцатом"
+        },
+        "20": {
+            "nominative": "двадцатое",
+            "genitive": "двадцатого",
+            "prepositional": "двадцатом"
+        },
+        "30": {
+            "nominative": "тридцатое",
+            "genitive": "тридцатого",
+            "prepositional": "тридцатом"
+        },
+        "40": {
+            "nominative": "сороковое",
+            "genitive": "сорокового",
+            "prepositional": "сороковом"
+        },
+        "50": {
+            "nominative": "пятидесятое",
+            "genitive": "пятидесятого",
+            "prepositional": "пятидесятом"
+        },
+        "60": {
+            "nominative": "шестидесятое",
+            "genitive": "шестидесятого",
+            "prepositional": "шестидесятом"
+        },
+        "70": {
+            "nominative": "семидесятое",
+            "genitive": "семидесятого",
+            "prepositional": "семидесятом"
+        },
+        "80": {
+            "nominative": "восьмидесятое",
+            "genitive": "восьмидесятого",
+            "prepositional": "восьмидесятом"
+        },
+        "90": {
+            "nominative": "девяностое",
+            "genitive": "девяностого",
+            "prepositional": "девяностом"
+        },
+        "100": {
+            "nominative": "сотое",
+            "genitive": "сотого",
+            "prepositional": "сотом"
+        },
+        "200": {
+            "nominative": "двухсотое",
+            "genitive": "двухсотого",
+            "prepositional": "двухсотом"
+        },
+        "300": {
+            "nominative": "трёхсотое",
+            "genitive": "трёхсотого",
+            "prepositional": "трёхсотом"
+        },
+        "400": {
+            "nominative": "четырёхсотое",
+            "genitive": "четырёхсотого",
+            "prepositional": "четырёхсотом"
+        },
+        "500": {
+            "nominative": "пятисотое",
+            "genitive": "пятисотого",
+            "prepositional": "пятисотом"
+        },
+        "600": {
+            "nominative": "шестисотое",
+            "genitive": "шестисотого",
+            "prepositional": "шестисотом"
+        },
+        "700": {
+            "nominative": "семисотое",
+            "genitive": "семисотого",
+            "prepositional": "семисотом"
+        },
+        "800": {
+            "nominative": "восьмисотое",
+            "genitive": "восьмисотого",
+            "prepositional": "восьмисотом"
+        },
+        "900": {
+            "nominative": "девятисотое",
+            "genitive": "девятисотого",
+            "prepositional": "девятисотом"
+        }
+    },
+    "months": [
+        {
+            "nominative": "январь",
+            "genitive": "января",
+            "prepositional": "январе"
+        },
+        {
+            "nominative": "февраль",
+            "genitive": "февраля",
+            "prepositional": "феврале"
+        },
+        {
+            "nominative": "март",
+            "genitive": "марта",
+            "prepositional": "марте"
+        },
+        {
+            "nominative": "апрель",
+            "genitive": "апреля",
+            "prepositional": "апреле"
+        },
+        {
+            "nominative": "май",
+            "genitive": "мая",
+            "prepositional": "мае"
+        },
+        {
+            "nominative": "июнь",
+            "genitive": "июня",
+            "prepositional": "июне"
+        },
+        {
+            "nominative": "июль",
+            "genitive": "июля",
+            "prepositional": "июле"
+        },
+        {
+            "nominative": "август",
+            "genitive": "августа",
+            "prepositional": "августе"
+        },
+        {
+            "nominative": "сентябрь",
+            "genitive": "сентября",
+            "prepositional": "сентябре"
+        },
+        {
+            "nominative": "октябрь",
+            "genitive": "октября",
+            "prepositional": "октябре"
+        },
+        {
+            "nominative": "ноябрь",
+            "genitive": "ноября",
+            "prepositional": "ноябре"
+        },
+        {
+            "nominative": "декабрь",
+            "genitive": "декабря",
+            "prepositional": "декабре"
+        }
+    ],
+    "year prefixes": {
+        "1000": "тысяча",
+        "2000": "две тысячи"
+    },
+    "year exceptions": {
+        "1000": {
+            "nominative": "тысячный",
+            "genitive": "тысячного",
+            "prepositional": "тысячном"
+        },
+        "2000": {
+            "nominative": "двухтысячный",
+            "genitive": "двухтысячного",
+            "prepositional": "двухтысячном"
+        }
+    },
+    "year": {
+        "nominative": "год",
+        "genitive": "года",
+        "prepositional": "году"
+    }
+}
