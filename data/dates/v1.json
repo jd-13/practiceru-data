@@ -256,31 +256,45 @@
     "days of the week": [
         {
             "nominative": "понедельник",
-            "accusative": "понедельник"
+            "accusative": "понедельник",
+            "prepositional": "понедельнике",
+            "preposition": "в"
         },
         {
             "nominative": "вторник",
-            "accusative": "вторник"
+            "accusative": "вторник",
+            "prepositional": "вторнике",
+            "preposition": "во"
         },
         {
             "nominative": "среда",
-            "accusative": "среду"
+            "accusative": "среду",
+            "prepositional": "среде",
+            "preposition": "в"
         },
         {
             "nominative": "четверг",
-            "accusative": "четверг"
+            "accusative": "четверг",
+            "prepositional": "четверге",
+            "preposition": "в"
         },
         {
             "nominative": "пятница",
-            "accusative": "пятницу"
+            "accusative": "пятницу",
+            "prepositional": "пятнице",
+            "preposition": "в"
         },
         {
             "nominative": "суббота",
-            "accusative": "субботу"
+            "accusative": "субботу",
+            "prepositional": "субботе",
+            "preposition": "в"
         },
         {
             "nominative": "воскресенье",
-            "accusative": "воскресенье"
+            "accusative": "воскресенье",
+            "prepositional": "воскресенье",
+            "preposition": "в"
         }
     ]
 }
