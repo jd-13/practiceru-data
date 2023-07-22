@@ -252,5 +252,35 @@
             "genitive": "декабря",
             "prepositional": "декабре"
         }
+    ],
+    "days of week": [
+        {
+            "nominative": "понедельник",
+            "accusative": "понедельник"
+        },
+        {
+            "nominative": "вторник",
+            "accusative": "вторник"
+        },
+        {
+            "nominative": "среда",
+            "accusative": "среду"
+        },
+        {
+            "nominative": "четверг",
+            "accusative": "четверг"
+        },
+        {
+            "nominative": "пятница",
+            "accusative": "пятницу"
+        },
+        {
+            "nominative": "суббота",
+            "accusative": "субботу"
+        },
+        {
+            "nominative": "воскресенье",
+            "accusative": "воскресенье"
+        }
     ]
 }
