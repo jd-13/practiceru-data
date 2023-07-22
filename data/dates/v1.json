@@ -1,5 +1,5 @@
 {
-    "numbers": {
+    "ordinal numbers": {
         "1": {
             "nominative": "первое",
             "genitive": "первого",
@@ -179,6 +179,16 @@
             "nominative": "девятисотое",
             "genitive": "девятисотого",
             "prepositional": "девятисотом"
+        },
+        "1000": {
+            "nominative": "тысячный",
+            "genitive": "тысячного",
+            "prepositional": "тысячном"
+        },
+        "2000": {
+            "nominative": "двухтысячный",
+            "genitive": "двухтысячного",
+            "prepositional": "двухтысячном"
         }
     },
     "months": [
@@ -242,26 +252,5 @@
             "genitive": "декабря",
             "prepositional": "декабре"
         }
-    ],
-    "year prefixes": {
-        "1000": "тысяча",
-        "2000": "две тысячи"
-    },
-    "year exceptions": {
-        "1000": {
-            "nominative": "тысячный",
-            "genitive": "тысячного",
-            "prepositional": "тысячном"
-        },
-        "2000": {
-            "nominative": "двухтысячный",
-            "genitive": "двухтысячного",
-            "prepositional": "двухтысячном"
-        }
-    },
-    "year": {
-        "nominative": "год",
-        "genitive": "года",
-        "prepositional": "году"
-    }
+    ]
 }
