@@ -1,90 +1,78 @@
 {
-    "colours": [
-        {
-            "hex": "f42222",
+    "colours": {
+        "f42222": {
             "masculine": "красный",
             "feminine": "красная",
             "neuter": "красное",
             "plural": "красные"
         },
-        {
-            "hex": "f4a422",
+        "f4a422": {
             "masculine": "оранжевый",
             "feminine": "оранжевая",
             "neuter": "оранжевое",
             "plural": "оранжевые"
         },
-        {
-            "hex": "f4f422",
+        "f4f422": {
             "masculine": "жёлтый",
             "feminine": "жёлтая",
             "neuter": "жёлтое",
             "plural": "жёлтые"
         },
-        {
-            "hex": "a4f422",
+        "a4f422": {
             "masculine": "зелёный",
             "feminine": "зелёная",
             "neuter": "зелёное",
             "plural": "зелёные"
         },
-        {
-            "hex": "22f4f4",
+        "22f4f4": {
             "masculine": "голубой",
             "feminine": "голубая",
             "neuter": "голубое",
             "plural": "голубые"
         },
-        {
-            "hex": "2242f4",
+        "2242f4": {
             "masculine": "синий",
             "feminine": "синяя",
             "neuter": "синее",
             "plural": "синие"
         },
-        {
-            "hex": "a422f4",
+        "a422f4": {
             "masculine": "фиолетовый",
             "feminine": "фиолетовая",
             "neuter": "фиолетовое",
             "plural": "фиолетовые"
         },
-        {
-            "hex": "f422a4",
+        "f422a4": {
             "masculine": "розовый",
             "feminine": "розовая",
             "neuter": "розовое",
             "plural": "розовые"
         },
-        {
-            "hex": "a8532b",
+        "a8532b": {
             "masculine": "коричневый",
             "feminine": "коричневая",
             "neuter": "коричневое",
             "plural": "коричневые"
         },
-        {
-            "hex": "000000",
+        "000000": {
             "masculine": "чёрный",
             "feminine": "чёрная",
             "neuter": "чёрное",
             "plural": "чёрные"
         },
-        {
-            "hex": "ffffff",
+        "ffffff": {
             "masculine": "белый",
             "feminine": "белая",
             "neuter": "белое",
             "plural": "белые"
         },
-        {
-            "hex": "777777",
+        "777777": {
             "masculine": "серый",
             "feminine": "серая",
             "neuter": "серое",
             "plural": "серые"
         }
-    ],
+    },
     "nouns": {
         "дом": "masculine",
         "стол": "masculine",
