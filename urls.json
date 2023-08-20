@@ -6,5 +6,6 @@
     "pronouncases": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/pronouncases",
     "imperative": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperative",
     "imperativerules": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperativerules",
-    "dates": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/dates"
+    "dates": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/dates",
+    "colours": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/colours"
 }
