@@ -1,0 +1,104 @@
+{
+    "colours": {
+        "f42222": {
+            "masculine": "красный",
+            "feminine": "красная",
+            "neuter": "красное",
+            "plural": "красные"
+        },
+        "f4a422": {
+            "masculine": "оранжевый",
+            "feminine": "оранжевая",
+            "neuter": "оранжевое",
+            "plural": "оранжевые"
+        },
+        "f4f422": {
+            "masculine": "жёлтый",
+            "feminine": "жёлтая",
+            "neuter": "жёлтое",
+            "plural": "жёлтые"
+        },
+        "a4f422": {
+            "masculine": "зелёный",
+            "feminine": "зелёная",
+            "neuter": "зелёное",
+            "plural": "зелёные"
+        },
+        "22f4f4": {
+            "masculine": "голубой",
+            "feminine": "голубая",
+            "neuter": "голубое",
+            "plural": "голубые"
+        },
+        "2242f4": {
+            "masculine": "синий",
+            "feminine": "синяя",
+            "neuter": "синее",
+            "plural": "синие"
+        },
+        "a422f4": {
+            "masculine": "фиолетовый",
+            "feminine": "фиолетовая",
+            "neuter": "фиолетовое",
+            "plural": "фиолетовые"
+        },
+        "f422a4": {
+            "masculine": "розовый",
+            "feminine": "розовая",
+            "neuter": "розовое",
+            "plural": "розовые"
+        },
+        "a8532b": {
+            "masculine": "коричневый",
+            "feminine": "коричневая",
+            "neuter": "коричневое",
+            "plural": "коричневые"
+        },
+        "000000": {
+            "masculine": "чёрный",
+            "feminine": "чёрная",
+            "neuter": "чёрное",
+            "plural": "чёрные"
+        },
+        "ffffff": {
+            "masculine": "белый",
+            "feminine": "белая",
+            "neuter": "белое",
+            "plural": "белые"
+        },
+        "777777": {
+            "masculine": "серый",
+            "feminine": "серая",
+            "neuter": "серое",
+            "plural": "серые"
+        }
+    },
+    "nouns": {
+        "дом": "masculine",
+        "стол": "masculine",
+        "компьютер": "masculine",
+        "кот": "masculine",
+        "корабль": "masculine",
+        "самолёт": "masculine",
+
+        "машина": "feminine",
+        "книга": "feminine",
+        "планета": "feminine",
+        "птица": "feminine",
+        "стена": "feminine",
+        "дверь": "feminine",
+
+        "окно": "neuter",
+        "небо": "neuter",
+        "письмо": "neuter",
+        "дерево": "neuter",
+        "кресло": "neuter",
+
+        "дома": "plural",
+        "столы": "plural",
+        "корабли": "plural",
+        "машины": "plural",
+        "книги": "plural",
+        "двери": "plural"
+    }
+}
