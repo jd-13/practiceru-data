@@ -1,0 +1,110 @@
+{
+    "nouns": {
+        "магазин": {
+            "declensions": {
+                "genitive": "магазина",
+                "accusative": "магазин",
+                "prepositional": "магазине"
+            },
+            "prepositionType": "в"
+        },
+        "банк": {
+            "declensions": {
+                "genitive": "банка",
+                "accusative": "банк",
+                "prepositional": "банке"
+            },
+            "prepositionType": "в"
+        },
+        "парк": {
+            "declensions": {
+                "genitive": "парка",
+                "accusative": "парк",
+                "prepositional": "парке"
+            },
+            "prepositionType": "в"
+        },
+        "кафе": {
+            "declensions": {
+                "genitive": "кафе",
+                "accusative": "кафе",
+                "prepositional": "кафе"
+            },
+            "prepositionType": "в"
+        },
+        "ресторан": {
+            "declensions": {
+                "genitive": "ресторана",
+                "accusative": "ресторан",
+                "prepositional": "ресторане"
+            },
+            "prepositionType": "в"
+        },
+        "библиотека": {
+            "declensions": {
+                "genitive": "библиотеки",
+                "accusative": "библиотеку",
+                "prepositional": "библиотеке"
+            },
+            "prepositionType": "в"
+        },
+        "театр": {
+            "declensions": {
+                "genitive": "театра",
+                "accusative": "театр",
+                "prepositional": "театре"
+            },
+            "prepositionType": "в"
+        },
+        "концерт": {
+            "declensions": {
+                "genitive": "концерта",
+                "accusative": "концерт",
+                "prepositional": "концерте"
+            },
+            "prepositionType": "на"
+        },
+        "вокзал": {
+            "declensions": {
+                "genitive": "вокзала",
+                "accusative": "вокзал",
+                "prepositional": "вокзале"
+            },
+            "prepositionType": "на"
+        },
+        "работа": {
+            "declensions": {
+                "genitive": "работы",
+                "accusative": "работу",
+                "prepositional": "работе"
+            },
+            "prepositionType": "на"
+        }
+    },
+
+    "phrases": {
+        "to": [
+            "я иду",
+            "я пойду",
+            "она идёт"
+        ],
+        "from": [
+            "я пришел",
+            "я приду"
+        ],
+        "at": [
+            "я",
+            "ты",
+            "он",
+            "она",
+            "мы",
+            "вы",
+            "они"
+        ]
+    },
+
+    "prepositions": {
+        "в": {"to": "в", "from": "из", "at": "в"},
+        "на": {"to": "на", "from": "с", "at": "на"}
+    }
+}

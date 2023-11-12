@@ -8,5 +8,6 @@
     "imperativerules": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/imperativerules",
     "dates": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/dates",
     "colours": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/colours",
-    "verbconjugations": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/verbconjugations"
+    "verbconjugations": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/verbconjugations",
+    "prepositionsandplaces": "https://raw.githubusercontent.com/jd-13/practiceru-data/main/data/prepositionsandplaces"
 }
